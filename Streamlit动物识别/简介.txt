@@ -1,0 +1,2 @@
+本作品主要运用Python的Streamlit库实现简单页面构建，之后申请百度AI开发平台的账号，创建一个图像识别应用，获取应用的APP_ID、API_KEY和SECRET_KEY，并在终端安装百度AI的PythonSDK，编写代码调用动植物识别服务。
+Streamlit是一个Python库，它可以为机器学习和数据分析构建webapp。它的优势是入门容易，纯python编码，开发效率高，UI精美。
